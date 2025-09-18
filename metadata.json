@@ -1,0 +1,7 @@
+{
+  "name": "First user will see BtoC Dukan.Ai",
+  "description": "A SaaS tool for small and medium business owners in India to provide AI-powered insights for their business. Dukan.AI makes complex data simple and actionable.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
